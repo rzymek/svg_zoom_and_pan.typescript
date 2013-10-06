@@ -1,4 +1,3 @@
-/// <references 
 module svgZoomAndPan{
     class Point{
         x:number;
